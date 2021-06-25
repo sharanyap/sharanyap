@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sharanyap
-- 👀 I’m interested in CS, technology, painting, interior design and cooking
+<!--- 👀 I’m interested in CS, technology, painting, interior design and cooking-->
 - 🌱 I’m currently learning more about machine learning and frontend dev
-- 💞️ I’m looking to collaborate on any technical and creative projects!
+<!--- 💞️ I’m looking to collaborate on any technical and creative projects! -->
 - 📫 How to reach me - sharanyap@gatech.edu
 
 <!---
